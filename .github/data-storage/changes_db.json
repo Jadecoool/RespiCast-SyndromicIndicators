@@ -32,5 +32,19 @@
                 "model-output/MRC_GIDA-TiDE/2026-03-18-MRC_GIDA-TiDE.csv"
             ]
         }
+    ],
+    "ItaLuxColab": [
+        {
+            "model": "EpiEKF",
+            "changes": [
+                "model-output/ItaLuxColab-EpiEKF/2026-03-18-ItaLuxColab-EpiEKF.csv"
+            ]
+        },
+        {
+            "model": "EpiNetEKF",
+            "changes": [
+                "model-output/ItaLuxColab-EpiNetEKF/2026-03-18-ItaLuxColab-EpiNetEKF.csv"
+            ]
+        }
     ]
 }
