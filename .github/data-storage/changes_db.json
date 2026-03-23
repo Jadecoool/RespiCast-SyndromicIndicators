@@ -3,7 +3,7 @@
         {
             "model": "FluBcast",
             "changes": [
-                "model-output/ISI-FluBcast/2026-03-18-ISI-FluBcast.csv"
+                "model-output/ISI-FluBcast/2026-03-25-ISI-FluBcast.csv"
             ]
         }
     ],
@@ -11,39 +11,25 @@
         {
             "model": "NBEATS",
             "changes": [
-                "model-output/MRC_GIDA-NBEATS/2026-03-18-MRC_GIDA-NBEATS.csv"
+                "model-output/MRC_GIDA-NBEATS/2026-03-25-MRC_GIDA-NBEATS.csv"
             ]
         },
         {
             "model": "NHiTS",
             "changes": [
-                "model-output/MRC_GIDA-NHiTS/2026-03-18-MRC_GIDA-NHiTS.csv"
+                "model-output/MRC_GIDA-NHiTS/2026-03-25-MRC_GIDA-NHiTS.csv"
             ]
         },
         {
             "model": "Prophet",
             "changes": [
-                "model-output/MRC_GIDA-Prophet/2026-03-18-MRC_GIDA-Prophet.csv"
+                "model-output/MRC_GIDA-Prophet/2026-03-25-MRC_GIDA-Prophet.csv"
             ]
         },
         {
             "model": "TiDE",
             "changes": [
-                "model-output/MRC_GIDA-TiDE/2026-03-18-MRC_GIDA-TiDE.csv"
-            ]
-        }
-    ],
-    "ItaLuxColab": [
-        {
-            "model": "EpiEKF",
-            "changes": [
-                "model-output/ItaLuxColab-EpiEKF/2026-03-18-ItaLuxColab-EpiEKF.csv"
-            ]
-        },
-        {
-            "model": "EpiNetEKF",
-            "changes": [
-                "model-output/ItaLuxColab-EpiNetEKF/2026-03-18-ItaLuxColab-EpiNetEKF.csv"
+                "model-output/MRC_GIDA-TiDE/2026-03-25-MRC_GIDA-TiDE.csv"
             ]
         }
     ]
