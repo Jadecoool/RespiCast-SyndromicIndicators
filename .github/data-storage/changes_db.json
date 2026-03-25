@@ -96,5 +96,13 @@
                 "model-output/RIVM-KFdlm/2026-03-25-RIVM-KFdlm.csv"
             ]
         }
+    ],
+    "Chronos": [
+        {
+            "model": "Chronos2",
+            "changes": [
+                "model-output/Chronos-Chronos2/2026-03-25-Chronos-Chronos2.csv"
+            ]
+        }
     ]
 }
