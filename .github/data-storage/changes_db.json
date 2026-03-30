@@ -6,5 +6,31 @@
                 "model-output/ISI-FluBcast/2026-04-01-ISI-FluBcast.csv"
             ]
         }
+    ],
+    "MRC_GIDA": [
+        {
+            "model": "NBEATS",
+            "changes": [
+                "model-output/MRC_GIDA-NBEATS/2026-04-01-MRC_GIDA-NBEATS.csv"
+            ]
+        },
+        {
+            "model": "NHiTS",
+            "changes": [
+                "model-output/MRC_GIDA-NHiTS/2026-04-01-MRC_GIDA-NHiTS.csv"
+            ]
+        },
+        {
+            "model": "Prophet",
+            "changes": [
+                "model-output/MRC_GIDA-Prophet/2026-04-01-MRC_GIDA-Prophet.csv"
+            ]
+        },
+        {
+            "model": "TiDE",
+            "changes": [
+                "model-output/MRC_GIDA-TiDE/2026-04-01-MRC_GIDA-TiDE.csv"
+            ]
+        }
     ]
 }
